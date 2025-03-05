@@ -12,7 +12,7 @@ export default function Home() {
           fill
           className="w-full h-full object-cover"
         />
-        <div className="absolute lg:top-52 lg:left-20 left-[3px] bottom-10 bg-white shadow lg:py-10 py-5 px-5 lg:pr-20 rounded-md">
+        <div className="absolute lg:top-52 lg:left-20 left-[3px] lg:block hidden bg-white shadow lg:py-10 py-5 px-5 lg:pr-20 rounded-md">
           <h1 className="lg:text-4xl text-xl font-bold font-serif">Find the right fit</h1>
           <p>The topics you want, posted by real-world experts.</p>
         </div>
